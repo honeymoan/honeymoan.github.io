@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-# 🥰 Hiya, I'm Danielle!
-
 I'm a LGBTQ+ Java Developer currently learning Cloud! I've worked directly with Java 11+ frameworks such as Quarkus and
 Springboot in several projects during almost 7 years.
 
