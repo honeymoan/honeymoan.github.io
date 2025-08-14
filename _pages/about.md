@@ -63,9 +63,11 @@ I worked on supporting microservices for a system for issuing and receiving tax 
 ### Grupo Saga > `Assistent Java Developer`
 I worked on supporting an ERP monolith for dealership management; I used Leads to completely clear the development support queue; I implemented code in a rewrite of the ERP using Quarkus and Docker.
 
-## 💽 Projects
-- 📚 bartmoss-airbnb-predict (Machine Learning test with Airbnb's Data)
-- 🕹 pd2-damn (Mod for Payday 2 written in Lua)
-- 📚 quarkus-dynamo-persistence (Archived) (Quarkus plugin using DynamoDB in the same way as Hibernate)
-- 🕹 Fork of Pycod ("ported" to Python 3)
-- 🕹 Fork of CoD Maya Tools ("ported" to Python 3)
+## 💽 Projects (mostly not active)
+[![damn-card](https://github-readme-stats.vercel.app/api/pin/?username=honeymoan&repo=pd2-damn&theme=dark)](https://github.com/honeymoan/pd2-damn)
+[![pmm-card](https://github-readme-stats.vercel.app/api/pin/?username=honeymoan&repo=preciso-metrologia-mobileapp&theme=dark)](https://github.com/honeymoan/preciso-metrologia-mobileapp)
+[![pmw-card](https://github-readme-stats.vercel.app/api/pin/?username=honeymoan&repo=preciso-metrologia-webapp&theme=dark)](https://github.com/honeymoan/preciso-metrologia-webapp)
+[![fsd-card](https://github-readme-stats.vercel.app/api/pin/?username=honeymoan&repo=ecommerce-maxima&theme=dark)](https://github.com/honeymoan/ecommerce-maxima)
+[![mm-card](https://github-readme-stats.vercel.app/api/pin/?username=honeymoan&repo=marinsmeyer&theme=dark)](https://github.com/honeymoan/marinsmeyer)
+[![bt-card](https://github-readme-stats.vercel.app/api/pin/?username=honeymoan&repo=backtest&theme=dark)](https://github.com/honeymoan/backtest)
+[![ew-card](https://github-readme-stats.vercel.app/api/pin/?username=honeymoan&repo=ethanwinters&theme=dark)](https://github.com/honeymoan/ethanwinters)

@@ -1,17 +1,22 @@
 /* ==========================================================================
-   Dark skin, based on the Minimal Mistakes skin
+   Based on the Minimal Mistakes skin and material you
    ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #00adb5;
+$source-color               : #EF7C8E;
+$primary-color              : #9B4050;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
+$secondary-color            : #76565A;
+$tertiary-color             : #785831;
+$neutral-color              : #655C5D;
+$neutral-variant-color      : #6B5A5C;
 
-$background                 : #252a34;
+$background                 : #0f0f0f;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
-$text                       : #eaeaea;
+$text                       : #d4d4d4;
 $link                       : mix($primary-color, $text, 40%);
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
